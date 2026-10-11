@@ -27,4 +27,6 @@ The goal of this project is to improve my skills in Java programming, Android de
 ## 👨‍💻 Author
 **Maj Krasna Halilagic**
 
-Computer Science Student from Slovenia.<img width="280" height="400" alt="Screenshot_20261011_151422_3Login_form" src="https://github.com/user-attachments/assets/3f626d1e-92d2-4ada-b592-29b0dda7515e" />
+Computer Science Student from Slovenia.
+
+<img width="280" height="600" alt="Screenshot_20261011_151422_3Login_form" src="https://github.com/user-attachments/assets/3f626d1e-92d2-4ada-b592-29b0dda7515e" />
