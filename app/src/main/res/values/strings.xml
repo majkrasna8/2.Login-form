@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">3.Login_form</string>
+    <string name="registration_form_title">Registration form</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_full_name">Full name</string>
+    <string name="hint_country">Country</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_phone">Phone number</string>
+    <string name="gender_label">Gender</string>
+    <string name="gender_male">Male</string>
+    <string name="gender_female">Female</string>
+    <string name="hint_password">Password</string>
+    <string name="terms_and_conditions">Agree with Terms &amp; Conditions</string>
+    <string name="create_account">Create account</string>
+</resources>
